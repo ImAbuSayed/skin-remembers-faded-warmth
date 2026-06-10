@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/skin-remembers-faded-warmth/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Skin Remembers Faded Warmth](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/skin-remembers-faded-warmth/) |
+| **Get License** | [Music Rights & Licensing for Skin Remembers Faded Warmth](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/skin-remembers-faded-warmth/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the gentle pull of hands across my chest
+> A sweet and slow surrender, laying me to rest
+> You’re staring at my lips beneath the fading light
+> I want to lose my way inside your arms tonight
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
