@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/skin-remembers-faded-warmth/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Skin Remembers Faded Warmth](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/skin-remembers-faded-warmth/) |
+| **Get License** | [Secure Licensing Rights for Skin Remembers Faded Warmth](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/skin-remembers-faded-warmth/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4af05124a343bcdb94f3baf16d8b1846f364d616c0556202db26317189654dd9` |
 | **Timestamp** | June 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
